@@ -1,4 +1,4 @@
-nodeTest
+Node Sample Files
 ========
 
-Testing Files for Node js
+Testing Files for Node.js
